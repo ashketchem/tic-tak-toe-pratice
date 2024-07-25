@@ -63,7 +63,11 @@ reset
      xScore += 0.5; // Increment both scores for a tie
      oScore += 0.5;
      score();
-    resetGame();
+    resetGame();git init
+git add .
+git commit -m "Initial commit of Tic Tac Toe game"
+git remote add origin https://github.com/<your_github_username>/tic-tac-toe.git
+git push -u origin main
    } 
 }
 
