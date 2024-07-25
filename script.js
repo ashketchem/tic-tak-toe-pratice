@@ -52,7 +52,7 @@ function checkWin() {
          oScore += 1; // Increment oScore only if O wins
        }
        score();
-reset
+resetGame();
        break;
      } 
    }
